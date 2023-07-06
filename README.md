@@ -17,6 +17,8 @@ If you are not familiar with the different technologies used in this project, pl
 - [vercel](https://vercel.com/)
 - [clerk.dev](https://clerk.com)
 - [axiom.dev](https://axiom.co/)
+- [upstash](https://console.upstash.com/)
+
 
 
 ## Learn More
